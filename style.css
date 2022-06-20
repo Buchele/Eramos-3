@@ -15,12 +15,12 @@ header{
 nav{
         display: flex;
         text-decoration: none;
-        gap: 25px;
+        gap: 20px;
         color: white;
         font-weight: 400;
         font-size: 18px;  }
 
-#i1     {height: 100px;  }
+#i1     {height: 80px;  }
 #i2     {height: 30px;  }
 
 header a{
