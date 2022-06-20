@@ -33,7 +33,9 @@
         <h2>Firmados na Palavra do Senhor</h2>
         <p>Este é o dia que fez o Senhor; regozijemo-nos, e alegremo-nos nele. Salmos 118:24.</p>
     </section>
-
+    <div id="z4">
+        
+    </div>
         <section >
         <div class="bra">
             <img src="Imagens/Kall.png" alt="Kall">
