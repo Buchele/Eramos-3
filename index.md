@@ -13,18 +13,43 @@
 <body>
 
     <header>
+        
         <img id="i1" src="Imagens/logo2.png" alt="logo">
         <nav>
             <a href="#">Agenda</a>
             <a href="#">Contatos</a>
             <a href="#">Loja</a>
+            
         </nav>
-        <img id="i2" src="Imagens/Instagram 2.png" alt="">
+        <a href="https://www.instagram.com/banda_eramos3/?hl=pt" target="_blank"> <img src="Imagens/Instagram 2.png" alt=></a>
+        
     </header>
-    <section>
+
+
+
+
+    <section id="y1" >
      
         <img src="Imagens/todospretoebranco.png" alt="">
 
+
+    </section>
+
+    <section  class="h11">
+        
+        <p>Somos a banda éramos 3, que começou com a ideia de 3 amigos (Fabiano, Kall e Roberto) se reunindo para tirar um som juntos, já sabendo que logo, logo, não seriam apenas 3.</p>
+
+
+
+    </section>
+
+
+
+
+    <section id="imgg">
+
+        <h2>Firmados na Palavra do Senhor</h2>
+        <p>Este é o dia que fez o Senhor; regozijemo-nos, e alegremo-nos nele. Salmos 118:24.</p>
 
     </section>
 
@@ -54,13 +79,28 @@
             <img src="Imagens/Tiago.png" alt="tiago">
             <div class="t1">
              <h2><strong> O Musico</strong></h2>
-             <p>Teclado, Gaita, Metais e Vocal. Depois de anos longe da música, Tiago não ao convite do Mestre e veio somar com a Banda Éramos 3 e voltou para o mar.</p></div>
+             <p>Teclado, Gaita, Metais, Saxofone e Vocal. Não existe Instrumento que assuste esse mestre da Musica. Depois de anos longe da música, Tiago aceitou convite do Mestre e veio somar com a Banda Éramos 3 e voltou para o mar.</p></div>
+        </div>
+
+        <div class="bra">
+            <img src="Imagens/Foto Perfil.png" alt="">
+            <div class="t1">
+                <h2><strong> O Aventureiro</strong></h2>
+                <p>Contando com anos de experiência no Heavy Metal, Diego se aventura nos ritmos regionais do Sul..</p></div>
         </div>
 
     </section>
 
+
+
+
+
+
+
+
     <footer>
-        Igreja Amar do Portal
+       <h2> Igreja Amar - Portal 2</h2>
+       <p>Rua Nono Emílio Dalçóquio 201, Espinheiros (lotemamento Portal 2), Itajaí-SC</p>
     </footer>
     
 </body>

@@ -50,9 +50,21 @@ width: 300px;
 padding: 40px;}
 div img{width: 40%;}
 footer{
-    background-color: white;
+    background-color: black;
     height: 80px;
+    color: white;
     text-align: center;
     font: 55px;    
-    padding: 20px;
-}
+    padding: 20px;}
+#imgg{
+        height: 400px;
+        background-image: url(Imagens/background002.jpg);
+        background-position: left center;
+        background-size: cover ;
+        background-attachment: fixed;}
+#imgg > p{  color: white; 
+                    font-size: 25px; 
+                    width: 300px; 
+                    background-color: rgba(128, 128, 128, 0.322);}
+.h11{height: 100px;color: white; font-size: 20px; text-align: center;}
+
