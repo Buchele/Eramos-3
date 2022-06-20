@@ -38,7 +38,7 @@ section img{   width: 100%;   }
     align-items: center;
     justify-content: space-around;    }
 .pre{
-    padding: 50px 30px;
+    padding: 10px 30px;
     display: flex;
     flex-direction: row;
     background-color: black;
@@ -65,7 +65,8 @@ footer{
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: center;}
+        justify-content: center;
+    padding-bottom: 20px;}
 #imgg > p{          color: white; 
                     font-size: 20px; 
                     font-weight: bold;
@@ -82,11 +83,14 @@ footer{
                     width: 350px; 
                     background-color: rgba(128, 128, 128, 0.347);
                     padding: 10px;}
-.h11{   height: 100px;
+.h11{   height: 50px;
         color: white; 
         font-size: 15px; 
         text-align: center;
         padding: 0px 20px;
         text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.514);}
-
+#z4{
+    height: 20px;
+    background-color: black;
+}
         
