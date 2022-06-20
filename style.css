@@ -91,9 +91,7 @@ footer{
         text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.514);}
 #z4{
     height: 20px;
-    background-color: black;
-}
-
+    background-color: black;}
 div.video{
     background-color: var(--cor5);
     margin: 0px -20px 30px -20px;
