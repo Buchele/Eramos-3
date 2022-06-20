@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-nr">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,49 +8,30 @@
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="Imagens/Flat-Icons.com-Flat-Guitar.ico" type="image/x-icon">
 
-
 </head>
 <body>
-
     <header>
-        
         <img id="i1" src="Imagens/logo2.png" alt="logo">
         <nav>
             <a href="#">Agenda</a>
             <a href="#">Contatos</a>
-            <a href="#">Loja</a>
-            
+            <a href="#">Loja</a>     
         </nav>
         <a href="https://www.instagram.com/banda_eramos3/?hl=pt" target="_blank"> <img src="Imagens/Instagram 2.png" alt=></a>
         
     </header>
 
-
-
-
     <section id="y1" >
-     
         <img src="Imagens/todospretoebranco.png" alt="">
-
-
     </section>
 
     <section  class="h11">
-        
         <p>Somos a banda éramos 3, que começou com a ideia de 3 amigos (Fabiano, Kall e Roberto) se reunindo para tirar um som juntos, já sabendo que logo, logo, não seriam apenas 3.</p>
-
-
-
     </section>
 
-
-
-
     <section id="imgg">
-
         <h2>Firmados na Palavra do Senhor</h2>
         <p>Este é o dia que fez o Senhor; regozijemo-nos, e alegremo-nos nele. Salmos 118:24.</p>
-
     </section>
 
         <section >
@@ -88,15 +69,7 @@
                 <h2><strong> O Aventureiro</strong></h2>
                 <p>Contando com anos de experiência no Heavy Metal, Diego se aventura nos ritmos regionais do Sul..</p></div>
         </div>
-
     </section>
-
-
-
-
-
-
-
 
     <footer>
        <h2> Igreja Amar - Portal 2</h2>
