@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-nr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banda Eramos 3</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="Imagens/Flat-Icons.com-Flat-Guitar.ico" type="image/x-icon">
+
+
+</head>
+<body>
+
+    <header>
+        <img id="i1" src="Imagens/logo2.png" alt="logo">
+        <nav>
+            <a href="#">Agenda</a>
+            <a href="#">Contatos</a>
+            <a href="#">Loja</a>
+        </nav>
+        <img id="i2" src="Imagens/Instagram 2.png" alt="">
+    </header>
+    <section>
+     
+        <img src="Imagens/todospretoebranco.png" alt="">
+
+
+    </section>
+
+        <section >
+        <div class="bra">
+            <img src="Imagens/Kall.png" alt="Kall">
+            <div class="t1">
+            <h2>O Maestro</h2>
+            <p>Violão, Guitarra e voz. Esse é o nosso maestro! João Carlos ou Kall para os íntimos. Temos a honra de ter em nossa banda esse tão experiente músico e cantor "hors concours"</p></div>
+        </div>
+
+        <div class="pre">
+            <img src="Imagens/Pastor.png" alt="pastor">
+            <div class="t1">
+            <h2>O Milagre</h2>
+            <p>Há 22 anos longe da Bateria e sem o movimento dos pés pela sequela do Covid, Roberto segue tentando sustentar o compasso da vanera.</p></div>
+        </div>
+
+        <div class="bra">
+            <img src="Imagens/gaucho.png" alt="gaucho">
+            <div class="t1">
+            <h2>O Gaucho</h2>
+            <p>O único autêntico gaúcho da banda. Fabiano é um experiente baixista de vanerão das bailandas do sul, agora louvando a Jesus com seu talento.</p></div>
+        </div>
+
+        <div class="pre">
+            <img src="Imagens/Tiago.png" alt="tiago">
+            <div class="t1">
+             <h2><strong> O Musico</strong></h2>
+             <p>Teclado, Gaita, Metais e Vocal. Depois de anos longe da música, Tiago não ao convite do Mestre e veio somar com a Banda Éramos 3 e voltou para o mar.</p></div>
+        </div>
+
+    </section>
+
+    <footer>
+        Igreja Amar do Portal
+    </footer>
+    
+</body>
+</html>
