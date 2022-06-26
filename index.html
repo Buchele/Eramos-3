@@ -80,6 +80,11 @@
 
     </div>
 
+    <section>
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.5796726339977!2d-48.73745388255616!3d-26.885092399999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94df32c0df666329%3A0xd04cfecbba1b3fd6!2sComunidade%20Amar%20do%20Portal%202!5e0!3m2!1spt-BR!2sbr!4v1656212519548!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </section>
+
     <footer>
        <h2> Igreja Amar - Portal 2</h2>
        <p>Rua Nono Emílio Dalçóquio 201, Espinheiros (lotemamento Portal 2), Itajaí-SC</p>
